@@ -1,0 +1,19 @@
+.col {
+  display: flex;
+}
+
+.card {
+  flex-direction: row;
+}
+
+label.form-check-label {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.footer {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-evenly;
+}
